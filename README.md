@@ -15,5 +15,3 @@ This application provides a central menu system accessing three utility tools:
 
 ## How to Run
 1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yasirnuh286-netizen/plp-python-week8.git](https://github.com/yasirnuh286-netizen/plp-python-week8.git)
