@@ -1,0 +1,22 @@
+Personal Mini-Toolkit Plan
+
+Selected Tools:
+1. Number-Guessing Game: Generates a random secret number between 1 and 20 and prompts the user to guess it with high/low hints.
+2. Interactive To-Do List: Allows the user to view, add, and remove task items dynamically from a list.
+3. Simple Tip Calculator: Calculates total bill splits and recommended tip amounts based on user inputs.
+
+Menu Text Structure:
+====================================
+      PERSONAL MINI-TOOLKIT         
+====================================
+1. Play Number-Guessing Game
+2. Open Interactive To-Do List
+3. Launch Simple Tip Calculator
+4. Quit Program
+====================================
+Enter your choice (1-4): 
+
+Programming Concepts Used:
+- Tool 1 (Number-Guessing Game): Loops (while loop for guesses), Conditionals (if/elif/else for hints), Random module, f-strings.
+- Tool 2 (Interactive To-Do List): Lists (mutable task tracking), Loops (sub-menu loop and iteration), Conditionals (menu handling), f-strings.
+- Tool 3 (Simple Tip Calculator): Conditionals (validating inputs), Math operators, f-strings for formatted output.
